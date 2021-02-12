@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Elso!"
+date:   2021-02-11 23:37:16 +0100
+categories: jekyll update
+---
+Ez az elso post
