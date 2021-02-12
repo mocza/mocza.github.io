@@ -31,3 +31,4 @@ jobs:
         port: 22
         protocol: ftps
         server-dir: httpdocs/ 
+        dry-run: true  
