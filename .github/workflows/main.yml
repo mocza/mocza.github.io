@@ -25,5 +25,6 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       - uses: helaili/jekyll-action@v2
-        env:
-          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+        with:
+          token: ${{ secrets.JEKYLL_PAT }}
+          target_branch: 'gh-pages'
