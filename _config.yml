@@ -54,5 +54,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-staticman_url: https://kimeljenek-staticman.herokuapp.com/v2/entry/mocza/kimeljenek.github.io/master/comments
+staticman_url: https://kimeljenek-staticman.herokuapp.com/v2/entry/mocza/kimeljenek.github.io/main/comments
 
