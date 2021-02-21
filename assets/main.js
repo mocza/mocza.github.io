@@ -18,7 +18,7 @@
       data: $(this).serialize(),
       contentType: 'application/x-www-form-urlencoded',
       success: function (data) {
-        showModal('Comment submitted', 'Thanks! Your comment is <a href="https://github.com/mocza/mocza.github.io/pulls">pending</a>. It will appear when approved.');
+        showModal('A kommentedet sikeresen elküldted, nézz vissza kicsit később, jóváhagyás után fog megjelenni.');
 
         $("#comment-form-submit")
           .html("Submit");
