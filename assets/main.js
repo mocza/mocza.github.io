@@ -8,7 +8,7 @@
 
 
     $("#comment-form-submit").html(
-      '<svg class="icon spin"><use xlink:href="#icon-loading"></use></svg> Sending...'
+      '<svg class="icon spin"><use xlink:href="#icon-loading"></use></svg> Küldés folyamatban...'
     );
     $(form).addClass('disabled');
 
@@ -18,10 +18,10 @@
       data: $(this).serialize(),
       contentType: 'application/x-www-form-urlencoded',
       success: function (data) {
-        showModal('A kommentedet sikeresen elküldted, nézz vissza kicsit később, jóváhagyás után fog megjelenni.');
+        showModal('A hozzászólásod sikeresen elküldted, nézz vissza kicsit később, jóváhagyás után fog megjelenni.');
 
         $("#comment-form-submit")
-          .html("Submit");
+          .html("Küldés");
 
         $(form)[0].reset();
         $(form).removeClass('disabled');
@@ -31,7 +31,7 @@
         console.log(err);
         var ecode = (err.responseJSON || {}).errorCode || "unknown";
         showModal('Error', 'An error occured.<br>[' + ecode + ']');
-        $("#comment-form-submit").html("Submit")
+        $("#comment-form-submit").html("Küldés")
         $(form).removeClass('disabled');
         grecaptcha.reset();
       }
