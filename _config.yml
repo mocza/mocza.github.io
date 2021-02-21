@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Kíméljenek!
-email: your-email@example.com
+email: kerekperec@kimeljenek.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -54,5 +54,9 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-staticman_url: https://kimeljenek-staticman.herokuapp.com/v2/entry/mocza/mocza.github.io/main/comments
+staticman_url: http://127.0.0.1:8094/v2/entry/mocza/mocza.github.io/main/comments 
+#staticman_url: https://kimeljenek-staticman.herokuapp.com/v2/entry/mocza/mocza.github.io/main/comments
 
+reCaptcha:
+  siteKey: "6LetGlsaAAAAAK7VgrRNqDGQ2Lz-VlTrKW8FZo5S"
+  secret: "UqyPt+jduLsoglYAEBWk26kLn6pfL++jTDylws3LKkDw49b0zCTvhqzwZHZZg+ddLzSah+2mO+SpyGby0HpcmB+ZHYOpWxrZf5BRsnRGgiHVd3enZT+Fsd38OdL78+olWNdT6FLzTy3o8Ik4Isx0Cd5KK3SxdQ5PGiRlPZT5us9z1hPZVaGZBRES21Q9GVoDbMrSfU3Zuh1firjLbtuRFutCjRqcoQZ7b/jyBTACWk0lh8YyRSp9dQcK+PXA3MHz91zNDoqB2RXKWtft6ioH6yj6m2dTpZCVtcDBmXNQrnv4GGf9WlgN5qNKY3ChSmGptOj+di0UexynKqg6agKOoA=="
