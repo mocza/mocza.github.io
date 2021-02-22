@@ -38,7 +38,7 @@ jobs:
       - name: copy private key
         run: 'echo "$SSH_KEY" > /home/runner/.ssh/private_key.pem'
         env:
-          SSH_KEY: ${{secrets.SSH_PRIVATE_KEY}}
+          SSH_KEY: ${{secrets.FTP_SSH_PRIVATE_KEY}}
                
       - name: change permission to private key
         run: chmod 400 /home/runner/.ssh/private_key.pem      
