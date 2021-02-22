@@ -23,14 +23,14 @@ jobs:
       with:
         fetch-depth: 2
     - name: Create SSH deploy key
-      run: echo ${{ secrets.FTP_SSH_PRIVATE_KEY }} >> "$HOME/.ssh/ftp_publish_key"        
+      run: echo ${{ secrets.FTP_SSH_PRIVATE_KEY }} >> "/home/runner/.ssh/ftp_publish_key"        
     - name: FTP-Deploy-Action
       uses: SamKirkland/FTP-Deploy-Action@3.1.0
       with:
         ftp-server: sftp://185.43.207.73:22/httpdocs/
         ftp-username: ${{ secrets.FTP_USERNAME }}
         ftp-password: ${{ secrets.FTP_PASSWORD }}
-        git-ftp-args: --key "$HOME/.ssh/ftp_publish_key"
+        git-ftp-args: --key "/home/runner/.ssh/ftp_publish_key"
         #port: 22
         #protocol: ftps
         #server-dir: /httpdocs/ 
