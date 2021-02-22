@@ -23,7 +23,7 @@ jobs:
       with:
         fetch-depth: 2
     - name: FTP-Deploy-Action
-      uses: SamKirkland/FTP-Deploy-Action@3.1.1
+      uses: SamKirkland/FTP-Deploy-Action@3.1.0
       with:
         ftp-server: sftp://185.43.207.73:22/httpdocs/
         ftp-username: ${{ secrets.FTP_USERNAME }}
