@@ -47,6 +47,6 @@ jobs:
       - name: sftp run
         run: |
           sftp -i /home/runner/.ssh/private_key.pem ${{secrets.FTP_USERNAME}}@${{secrets.FTP_SERVER}} 
-          cd /httpdocs
+          cd httpdocs
           mput *
           exit
