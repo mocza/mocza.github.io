@@ -30,7 +30,7 @@ jobs:
         run: mkdir /home/runner/.ssh/
        
       - name: create know hosts
-        run: ssh-keyscan -H your.ftp.host > /home/runner/.ssh/known_hosts
+        run: ssh-keyscan -H ${{secrets.FTP_SERVER}} > /home/runner/.ssh/known_hosts
        
       - name: create private key
         run: touch /home/runner/.ssh/private_key.pem
@@ -38,7 +38,7 @@ jobs:
       - name: copy private key
         run: 'echo "$SSH_KEY" > /home/runner/.ssh/private_key.pem'
         env:
-          SSH_KEY: ${{secrets.FTP_PASSWORD}}
+          SSH_KEY: ${{secrets.SSH_PRIVATE_KEY}}
                
       - name: change permission to private key
         run: chmod 400 /home/runner/.ssh/private_key.pem      
