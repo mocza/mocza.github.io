@@ -25,10 +25,10 @@ jobs:
     - name: FTP-Deploy-Action
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
-        server: 185.43.207.73
-        username: 'kimeljenek.hu'
+        server: ${{ secrets.FTP_SERVER }}
+        username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
         port: 22
         protocol: ftps
-        server-dir: /httpdocs 
+        server-dir: /httpdocs/ 
         dry-run: true  
