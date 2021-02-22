@@ -8,7 +8,7 @@
 
 
     $("#comment-form-submit").html(
-      '<svg class="icon spin"><use xlink:href="#icon-loading"></use></svg> Küldés folyamatban...'
+      '<svg class="icon spin"><use xlink:href="#icon-loading"></use></svg> Hozzászólás küldése folyamatban...'
     );
     $(form).addClass('disabled');
 
@@ -18,7 +18,7 @@
       data: $(this).serialize(),
       contentType: 'application/x-www-form-urlencoded',
       success: function (data) {
-        showModal('A hozzászólásod sikeresen elküldted, nézz vissza kicsit később, jóváhagyás után fog megjelenni.');
+        showModal('A hozzászólásod sikeresen elküldted. Nézz vissza kicsit később, jóváhagyás után fog megjelenni.');
 
         $("#comment-form-submit")
           .html("Küldés");

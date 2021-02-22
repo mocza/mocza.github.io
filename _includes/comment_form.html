@@ -13,14 +13,14 @@
   </div>
 
     <div class="textfield narrowfield">
-      <label for="comment-form-name">Név
-        <input class="textfield__input" name="fields[name]" type="text" id="comment-form-name" placeholder="Ezzel a névvel fog megjelenni a hozzászólásod (kötelező)" required/>
+      <label for="comment-form-name">Név (kötelező)
+        <input class="textfield__input" name="fields[name]" type="text" id="comment-form-name" placeholder="Ezzel a névvel fog megjelenni a hozzászólásod" required/>
       </label>
     </div>
 
     <div class="textfield narrowfield">
-      <label for="comment-form-email">Email
-        <input class="textfield__input" name="fields[email]" type="email" id="comment-form-email" placeholder="Az email címed (opcionális, ha szeretnél értesítést kapni új hozzászólásokról)"/>
+      <label for="comment-form-email">Email (opcionális)
+        <input class="textfield__input" name="fields[email]" type="email" id="comment-form-email" placeholder="Ha szeretnél értesítést kapni az új hozzászólásokról"/>
       </label>
     </div>
 
@@ -33,7 +33,7 @@
     <div id="reCaptcha" class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
 
     <button class="button" id="comment-form-submit">
-      Küldés
+      Hozzászólás küldése
     </button>
 
 </form>
