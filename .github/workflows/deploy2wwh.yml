@@ -18,16 +18,16 @@ jobs:
         uses: wlixcc/SFTP-Deploy-Action@1.1
         with:
           # username
-          username: kimeljenek.hu
+          username: 'kimeljenek.hu'
           # your sftp server
-          server: 185.43.207.73
+          server: '185.43.207.73'
           # your sftp server port, default to 22
-          port: 22
+          #port:
           # you can copy private_key from your *.pem file, keep format
           ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
           # will put all file under this path
-          local_path: ./site/* # default is ./*
+          #local_path: # default is ./*
           # files will copy to under remote_path
-          remote_path: ./httpdocs # default is /
+          remote_path: '/httpdocs' # default is /
           # sftp args
-          #args: # optional
+          args: '-o ConnectTimeout=5' # optional
