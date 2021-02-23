@@ -25,6 +25,8 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: checkout
         uses: actions/checkout@v2
+        with:
+          ref: 'gh-pages'
       
       - name: create ssh folder
         run: mkdir -p /home/runner/.ssh/
@@ -40,8 +42,8 @@ jobs:
         #env:
         #  SSH_KEY: ${{secrets.FTP_SSH_PRIVATE_KEY}}
 
-      - name: create sftp batch file
-        run: touch /home/runner/sftp.batch
+#      - name: create sftp batch file
+#        run: touch /home/runner/sftp.batch
 
       - name: sftp batch file contents into env variable   
         run: 'echo "${{secrets.FTP_COMMANDS}}" > /home/runner/ftp.bat'
