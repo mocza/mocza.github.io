@@ -39,15 +39,22 @@ jobs:
         run: 'echo "$SSH_KEY" > /home/runner/.ssh/private_key.pem'
         env:
           SSH_KEY: ${{secrets.FTP_SSH_PRIVATE_KEY}}
-               
+
+      - name: create sftp batch file
+        run: touch /home/runner/sftp.batch
+
+      - name: sftp batch file contents into env variable   
+        run: 'echo "$SFTP_COMMANDS" > /home/runner/sftp.batch'
+        env:
+          SFTP_COMMANDS: ${{secrets.SFTP_COMMANDS}}
+
       - name: change permission to private key
         run: chmod 400 /home/runner/.ssh/private_key.pem      
 
+      - name: change permission to sftp batch file
+        run: chmod 400 /home/runner/sftp.batch      
+
       # Runs a single command using the runners shell
       - name: sftp run
-        run: |
-          sftp -r -i /home/runner/.ssh/private_key.pem ${{secrets.FTP_USERNAME}}@${{secrets.FTP_SERVER}}
-          cd httpdocs
-          mput *
-          exit
+        run: sftp -b /home/runner/sftp.batch -r -i /home/runner/.ssh/private_key.pem ${{secrets.FTP_USERNAME}}@${{secrets.FTP_SERVER}}
           
