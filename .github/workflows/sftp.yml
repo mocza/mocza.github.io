@@ -45,8 +45,8 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: sftp run
-        run: sftp -i /home/runner/.ssh/private_key.pem ${{secrets.FTP_USERNAME}}@${{secrets.FTP_SERVER}} <<EOF
-          cd httpdocs
-          mput *
-          exit
-          EOF
+        run: sftp -r -i /home/runner/.ssh/private_key.pem ${{secrets.FTP_USERNAME}}@${{secrets.FTP_SERVER}} <<EOF
+cd httpdocs
+mput *
+exit
+EOF
