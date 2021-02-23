@@ -29,8 +29,7 @@ jobs:
     - name: FTP-Deploy-Action
       uses: SamKirkland/FTP-Deploy-Action@3.1.1
       with:
-        #ftp-server: sftp://185.43.207.73:22/httpdocs/
-        ftp-server: '185.43.207.73'
+        ftp-server: ftps://185.43.207.73:22/httpdocs/
         ftp-username: ${{ secrets.FTP_USERNAME }}
         ftp-password: ${{ secrets.FTP_PASSWORD }}
         git-ftp-args: --key "/home/runner/.ssh/ftp_publish_key"
