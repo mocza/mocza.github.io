@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-02-23T16:43:52+00:00</updated><id>/feed.xml</id><title type="html">Kíméljenek!</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Masodik!</title><link href="/jekyll/update/2021/02/14/masodik.html" rel="alternate" type="text/html" title="Masodik!" /><published>2021-02-14T10:37:16+00:00</published><updated>2021-02-14T10:37:16+00:00</updated><id>/jekyll/update/2021/02/14/masodik</id><content type="html" xml:base="/jekyll/update/2021/02/14/masodik.html">&lt;p&gt;Ez a második post&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Ez a második post</summary></entry><entry><title type="html">Elso!</title><link href="/jekyll/update/2021/02/11/elso.html" rel="alternate" type="text/html" title="Elso!" /><published>2021-02-11T22:37:16+00:00</published><updated>2021-02-11T22:37:16+00:00</updated><id>/jekyll/update/2021/02/11/elso</id><content type="html" xml:base="/jekyll/update/2021/02/11/elso.html">&lt;p&gt;Ez az elso post&lt;/p&gt;
+
+&lt;section class=&quot;comments&quot; id=&quot;comment-section&quot;&gt;
+  &lt;hr /&gt;
+  
+  &lt;!-- Existing comments --&gt;
+  &lt;div class=&quot;comments__existing&quot;&gt;
+    &lt;h2&gt;Hozzászólások&lt;/h2&gt;
+    
+    
+    &lt;!-- List main comments in reverse date order, newest first. List replies in date order, oldest first. --&gt;
+    
+    
+
+&lt;article id=&quot;comment-e904b810-75f5-11eb-b299-aff64eaff2b2&quot; class=&quot;js-comment comment&quot; uid=&quot;e904b810-75f5-11eb-b299-aff64eaff2b2&quot;&gt;
+
+  &lt;div class=&quot;comment__author&quot;&gt;atuomata,
+    &lt;span class=&quot;comment__date&quot;&gt;&lt;a href=&quot;#comment-e904b810-75f5-11eb-b299-aff64eaff2b2&quot; title=&quot;Permalink to this comment&quot;&gt;February 23th, 2021 16:41&lt;/a&gt;&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;comment__body&quot;&gt;
+    &lt;p&gt;automata&lt;/p&gt;
+
+  &lt;/div&gt;
+
+
+    &lt;div class=&quot;comment__meta&quot;&gt;
+      &lt;a rel=&quot;nofollow&quot; class=&quot;comment__reply-link&quot; onclick=&quot;return addComment.moveForm('comment-e904b810-75f5-11eb-b299-aff64eaff2b2', 'respond', 'elso', 'e904b810-75f5-11eb-b299-aff64eaff2b2')&quot;&gt;↪&amp;#xFE0E; Válaszolok atuomata-nak&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/article&gt;
+  
+
+  &lt;hr style=&quot;border-top: 1px solid #ccc; background: transparent; margin-bottom: 10px;&quot; /&gt;
+
+
+    
+    
+
+&lt;article id=&quot;comment-48831af0-75ee-11eb-92f1-6f10ace7c46b&quot; class=&quot;js-comment comment&quot; uid=&quot;48831af0-75ee-11eb-92f1-6f10ace7c46b&quot;&gt;
+
+  &lt;div class=&quot;comment__author&quot;&gt;furdancs,
+    &lt;span class=&quot;comment__date&quot;&gt;&lt;a href=&quot;#comment-48831af0-75ee-11eb-92f1-6f10ace7c46b&quot; title=&quot;Permalink to this comment&quot;&gt;February 23th, 2021 15:46&lt;/a&gt;&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;comment__body&quot;&gt;
+    &lt;p&gt;furdancs&lt;/p&gt;
+
+  &lt;/div&gt;
+
+
+    &lt;div class=&quot;comment__meta&quot;&gt;
+      &lt;a rel=&quot;nofollow&quot; class=&quot;comment__reply-link&quot; onclick=&quot;return addComment.moveForm('comment-48831af0-75ee-11eb-92f1-6f10ace7c46b', 'respond', 'elso', '48831af0-75ee-11eb-92f1-6f10ace7c46b')&quot;&gt;↪&amp;#xFE0E; Válaszolok furdancs-nak&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/article&gt;
+  
+
+  &lt;hr style=&quot;border-top: 1px solid #ccc; background: transparent; margin-bottom: 10px;&quot; /&gt;
+
+
+    
+    
+
+&lt;article id=&quot;comment-6a814340-75ec-11eb-92f1-6f10ace7c46b&quot; class=&quot;js-comment comment&quot; uid=&quot;6a814340-75ec-11eb-92f1-6f10ace7c46b&quot;&gt;
+
+  &lt;div class=&quot;comment__author&quot;&gt;kerekperec,
+    &lt;span class=&quot;comment__date&quot;&gt;&lt;a href=&quot;#comment-6a814340-75ec-11eb-92f1-6f10ace7c46b&quot; title=&quot;Permalink to this comment&quot;&gt;February 23th, 2021 15:33&lt;/a&gt;&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;comment__body&quot;&gt;
+    &lt;p&gt;kimeljenek&lt;/p&gt;
+
+  &lt;/div&gt;
+
+
+    &lt;div class=&quot;comment__meta&quot;&gt;
+      &lt;a rel=&quot;nofollow&quot; class=&quot;comment__reply-link&quot; onclick=&quot;return addComment.moveForm('comment-6a814340-75ec-11eb-92f1-6f10ace7c46b', 'respond', 'elso', '6a814340-75ec-11eb-92f1-6f10ace7c46b')&quot;&gt;↪&amp;#xFE0E; Válaszolok kerekperec-nak&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/article&gt;
+  
+
+  &lt;hr style=&quot;border-top: 1px solid #ccc; background: transparent; margin-bottom: 10px;&quot; /&gt;
+
+
+    
+    
+
+&lt;article id=&quot;comment-c99cae50-75d3-11eb-ab36-f9239afa50d9&quot; class=&quot;js-comment comment&quot; uid=&quot;c99cae50-75d3-11eb-ab36-f9239afa50d9&quot;&gt;
+
+  &lt;div class=&quot;comment__author&quot;&gt;Trigger,
+    &lt;span class=&quot;comment__date&quot;&gt;&lt;a href=&quot;#comment-c99cae50-75d3-11eb-ab36-f9239afa50d9&quot; title=&quot;Permalink to this comment&quot;&gt;February 23th, 2021 12:36&lt;/a&gt;&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;comment__body&quot;&gt;
+    &lt;p&gt;Trigger&lt;/p&gt;
+
+  &lt;/div&gt;
+
+
+    &lt;div class=&quot;comment__meta&quot;&gt;
+      &lt;a rel=&quot;nofollow&quot; class=&quot;comment__reply-link&quot; onclick=&quot;return addComment.moveForm('comment-c99cae50-75d3-11eb-ab36-f9239afa50d9', 'respond', 'elso', 'c99cae50-75d3-11eb-ab36-f9239afa50d9')&quot;&gt;↪&amp;#xFE0E; Válaszolok Trigger-nak&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/article&gt;
+  
+
+  &lt;hr style=&quot;border-top: 1px solid #ccc; background: transparent; margin-bottom: 10px;&quot; /&gt;
+
+
+    
+    
+
+&lt;article id=&quot;comment-81e1a2a0-75c4-11eb-8bfc-790d431e908a&quot; class=&quot;js-comment comment&quot; uid=&quot;81e1a2a0-75c4-11eb-8bfc-790d431e908a&quot;&gt;
+
+  &lt;div class=&quot;comment__author&quot;&gt;Barack,
+    &lt;span class=&quot;comment__date&quot;&gt;&lt;a href=&quot;#comment-81e1a2a0-75c4-11eb-8bfc-790d431e908a&quot; title=&quot;Permalink to this comment&quot;&gt;February 23th, 2021 10:47&lt;/a&gt;&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;comment__body&quot;&gt;
+    &lt;p&gt;Hello&lt;/p&gt;
+
+  &lt;/div&gt;
+
+
+    &lt;div class=&quot;comment__meta&quot;&gt;
+      &lt;a rel=&quot;nofollow&quot; class=&quot;comment__reply-link&quot; onclick=&quot;return addComment.moveForm('comment-81e1a2a0-75c4-11eb-8bfc-790d431e908a', 'respond', 'elso', '81e1a2a0-75c4-11eb-8bfc-790d431e908a')&quot;&gt;↪&amp;#xFE0E; Válaszolok Barack-nak&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/article&gt;
+  
+
+  &lt;hr style=&quot;border-top: 1px solid #ccc; background: transparent; margin-bottom: 10px;&quot; /&gt;
+
+
+    
+    
+
+&lt;article id=&quot;comment-dcea9620-7510-11eb-9654-79326bb2c58a&quot; class=&quot;js-comment comment&quot; uid=&quot;dcea9620-7510-11eb-9654-79326bb2c58a&quot;&gt;
+
+  &lt;div class=&quot;comment__author&quot;&gt;Mark,
+    &lt;span class=&quot;comment__date&quot;&gt;&lt;a href=&quot;#comment-dcea9620-7510-11eb-9654-79326bb2c58a&quot; title=&quot;Permalink to this comment&quot;&gt;February 22th, 2021 13:21&lt;/a&gt;&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;comment__body&quot;&gt;
+    &lt;p&gt;#mark&lt;/p&gt;
+
+&lt;p&gt;proba szöveg &lt;em&gt;bold&lt;/em&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+
+
+    &lt;div class=&quot;comment__meta&quot;&gt;
+      &lt;a rel=&quot;nofollow&quot; class=&quot;comment__reply-link&quot; onclick=&quot;return addComment.moveForm('comment-dcea9620-7510-11eb-9654-79326bb2c58a', 'respond', 'elso', 'dcea9620-7510-11eb-9654-79326bb2c58a')&quot;&gt;↪&amp;#xFE0E; Válaszolok Mark-nak&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/article&gt;
+  
+
+  &lt;hr style=&quot;border-top: 1px solid #ccc; background: transparent; margin-bottom: 10px;&quot; /&gt;
+
+
+    
+    
+
+&lt;article id=&quot;comment-37e5de20-7496-11eb-9cf3-2bbfc7c4d925&quot; class=&quot;js-comment comment&quot; uid=&quot;37e5de20-7496-11eb-9cf3-2bbfc7c4d925&quot;&gt;
+
+  &lt;div class=&quot;comment__author&quot;&gt;Peppa,
+    &lt;span class=&quot;comment__date&quot;&gt;&lt;a href=&quot;#comment-37e5de20-7496-11eb-9cf3-2bbfc7c4d925&quot; title=&quot;Permalink to this comment&quot;&gt;February 21th, 2021 22:43&lt;/a&gt;&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;comment__body&quot;&gt;
+    &lt;p&gt;Remek!&lt;/p&gt;
+
+  &lt;/div&gt;
+
+
+    &lt;div class=&quot;comment__meta&quot;&gt;
+      &lt;a rel=&quot;nofollow&quot; class=&quot;comment__reply-link&quot; onclick=&quot;return addComment.moveForm('comment-37e5de20-7496-11eb-9cf3-2bbfc7c4d925', 'respond', 'elso', '37e5de20-7496-11eb-9cf3-2bbfc7c4d925')&quot;&gt;↪&amp;#xFE0E; Válaszolok Peppa-nak&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/article&gt;
+  
+
+&lt;article id=&quot;comment-7c8dfaf0-7499-11eb-9cf3-2bbfc7c4d925&quot; class=&quot;js-comment comment child&quot; uid=&quot;7c8dfaf0-7499-11eb-9cf3-2bbfc7c4d925&quot;&gt;
+
+  &lt;div class=&quot;comment__author&quot;&gt;Nevem senki,
+    &lt;span class=&quot;comment__date&quot;&gt;&lt;a href=&quot;#comment-7c8dfaf0-7499-11eb-9cf3-2bbfc7c4d925&quot; title=&quot;Permalink to this comment&quot;&gt;February 21th, 2021 23:06&lt;/a&gt;&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;comment__body&quot;&gt;
+    &lt;p&gt;Erre is lehet válaszolni&lt;/p&gt;
+
+  &lt;/div&gt;
+
+
+&lt;/article&gt;
+
+
+  
+
+  &lt;hr style=&quot;border-top: 1px solid #ccc; background: transparent; margin-bottom: 10px;&quot; /&gt;
+
+
+    
+    
+
+&lt;article id=&quot;comment-33783280-7490-11eb-b27d-5f66866c2b6d&quot; class=&quot;js-comment comment&quot; uid=&quot;33783280-7490-11eb-b27d-5f66866c2b6d&quot;&gt;
+
+  &lt;div class=&quot;comment__author&quot;&gt;asda,
+    &lt;span class=&quot;comment__date&quot;&gt;&lt;a href=&quot;#comment-33783280-7490-11eb-b27d-5f66866c2b6d&quot; title=&quot;Permalink to this comment&quot;&gt;February 21th, 2021 22:00&lt;/a&gt;&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;comment__body&quot;&gt;
+    &lt;p&gt;adas&lt;/p&gt;
+
+  &lt;/div&gt;
+
+
+    &lt;div class=&quot;comment__meta&quot;&gt;
+      &lt;a rel=&quot;nofollow&quot; class=&quot;comment__reply-link&quot; onclick=&quot;return addComment.moveForm('comment-33783280-7490-11eb-b27d-5f66866c2b6d', 'respond', 'elso', '33783280-7490-11eb-b27d-5f66866c2b6d')&quot;&gt;↪&amp;#xFE0E; Válaszolok asda-nak&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/article&gt;
+  
+
+  &lt;hr style=&quot;border-top: 1px solid #ccc; background: transparent; margin-bottom: 10px;&quot; /&gt;
+
+
+    
+  &lt;/div&gt;
+  
+
+  &lt;!-- New comment form --&gt;
+  &lt;div id=&quot;respond&quot; class=&quot;comment__new&quot;&gt;
+    &lt;form class=&quot;js-form form&quot; method=&quot;post&quot; action=&quot;https://kimeljenek-staticman.herokuapp.com/v2/entry/mocza/mocza.github.io/main/comments&quot;&gt;
+  &lt;input type=&quot;hidden&quot; name=&quot;options[origin]&quot; value=&quot;/jekyll/update/2021/02/11/elso.html&quot; /&gt;
+  &lt;input type=&quot;hidden&quot; name=&quot;options[parent]&quot; value=&quot;/jekyll/update/2021/02/11/elso.html&quot; /&gt;
+  &lt;input type=&quot;hidden&quot; id=&quot;comment-replying-to-uid&quot; name=&quot;fields[replying_to_uid]&quot; value=&quot;&quot; /&gt;
+  &lt;input type=&quot;hidden&quot; name=&quot;options[slug]&quot; value=&quot;elso&quot; /&gt;
+  &lt;input type=&quot;hidden&quot; name=&quot;options[reCaptcha][siteKey]&quot; value=&quot;6LetGlsaAAAAAK7VgrRNqDGQ2Lz-VlTrKW8FZo5S&quot; /&gt;
+  &lt;input type=&quot;hidden&quot; name=&quot;options[reCaptcha][secret]&quot; value=&quot;LHRhqTeJPjCgYKCnjy91YL8uSAHgIDjowRyhEmXtE+oUkK+GZEC1d12S92gFQ+fhhI1YfJShe55W7mOVYPvD4vyRVoaCUc2U7VoY4ZeM9Hln+CsETdUHSw7GiEcnrjFMPtZPl0XCbeJxxoeUE1uhSNtJiETdCcB3H6z9GvEqGuMKfJh9DqtRfAak6C+3sFSG7Y6Ha6PNaDfAd86or3cx8Nmr9gXL7zYDsFdLYksMJqSa0jonuqTNzleayrv8HNDkXFGA/DQPWryVEA7UFcebv0bTPu5fOpEsefqup8QdATkAGgoQkHuUjzcFn9I3naIAnvkKXtMz8N6y605fa9Ac+Q==&quot; /&gt;
+
+  &lt;div class=&quot;textfield&quot;&gt;
+    &lt;label for=&quot;comment-form-message&quot;&gt;&lt;h2&gt;Új hozzászólás&lt;small&gt;&lt;a rel=&quot;nofollow&quot; id=&quot;cancel-comment-reply-link&quot; href=&quot;/jekyll/update/2021/02/11/elso.html#respond&quot; style=&quot;display:none;&quot;&gt;(hozzászólás megszakítása)&lt;/a&gt;&lt;/small&gt;&lt;/h2&gt;
+      &lt;textarea class=&quot;textfield__input&quot; name=&quot;fields[message]&quot; type=&quot;text&quot; id=&quot;comment-form-message&quot; placeholder=&quot;A hozzászólásod szövege (formázni szeretnéd? használj markdown-t!)&quot; required=&quot;&quot; rows=&quot;6&quot;&gt;&lt;/textarea&gt;
+    &lt;/label&gt;
+  &lt;/div&gt;
+
+    &lt;div class=&quot;textfield narrowfield&quot;&gt;
+      &lt;label for=&quot;comment-form-name&quot;&gt;Név (kötelező)
+        &lt;input class=&quot;textfield__input&quot; name=&quot;fields[name]&quot; type=&quot;text&quot; id=&quot;comment-form-name&quot; placeholder=&quot;Ezzel a névvel fog megjelenni a hozzászólásod&quot; required=&quot;&quot; /&gt;
+      &lt;/label&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;textfield narrowfield&quot;&gt;
+      &lt;label for=&quot;comment-form-email&quot;&gt;Email (opcionális)
+        &lt;input class=&quot;textfield__input&quot; name=&quot;fields[email]&quot; type=&quot;email&quot; id=&quot;comment-form-email&quot; placeholder=&quot;Ha szeretnél értesítést kapni az új hozzászólásokról&quot; /&gt;
+      &lt;/label&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;textfield narrowfield hp&quot;&gt;
+      &lt;label for=&quot;hp&quot;&gt;
+        &lt;input class=&quot;textfield__input&quot; name=&quot;fields[hp]&quot; id=&quot;hp&quot; type=&quot;text&quot; placeholder=&quot;Leave blank&quot; /&gt;
+      &lt;/label&gt;
+    &lt;/div&gt;
+
+    &lt;div id=&quot;reCaptcha&quot; class=&quot;g-recaptcha&quot; data-sitekey=&quot;6LetGlsaAAAAAK7VgrRNqDGQ2Lz-VlTrKW8FZo5S&quot;&gt;&lt;/div&gt;
+
+    &lt;button class=&quot;button&quot; id=&quot;comment-form-submit&quot;&gt;
+      Hozzászólás küldése
+    &lt;/button&gt;
+
+&lt;/form&gt;
+
+&lt;article class=&quot;modal mdl-card mdl-shadow--2dp&quot;&gt;
+  &lt;div&gt;
+    &lt;h3 class=&quot;modal-title js-modal-title&quot;&gt;&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;mdl-card__supporting-text js-modal-text&quot;&gt;&lt;/div&gt;
+  &lt;div class=&quot;mdl-card__actions mdl-card--border&quot;&gt;
+    &lt;button class=&quot;button mdl-button--colored mdl-js-button mdl-js-ripple-effect js-close-modal&quot;&gt;Rendben&lt;/button&gt;
+  &lt;/div&gt;
+&lt;/article&gt;
+
+&lt;svg version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; style=&quot;display:none&quot;&gt;
+  &lt;symbol id=&quot;icon-loading&quot; viewBox=&quot;149.8 37.8 499.818 525&quot;&gt;&lt;path d=&quot;M557.8 187.8c13.8 0 24.601-10.8 24.601-24.6S571.6 138.6 557.8 138.6s-24.6 10.8-24.6 24.6c0 13.2 10.8 24.6 24.6 24.6zm61.2 90.6c-16.8 0-30.6 13.8-30.6 30.6s13.8 30.6 30.6 30.6 30.6-13.8 30.6-30.6c.6-16.8-13.2-30.6-30.6-30.6zm-61.2 145.2c-20.399 0-36.6 16.2-36.6 36.601 0 20.399 16.2 36.6 36.6 36.6 20.4 0 36.601-16.2 36.601-36.6C595 439.8 578.2 423.6 557.8 423.6zM409 476.4c-24 0-43.2 19.199-43.2 43.199s19.2 43.2 43.2 43.2 43.2-19.2 43.2-43.2S433 476.4 409 476.4zM260.8 411c-27 0-49.2 22.2-49.2 49.2s22.2 49.2 49.2 49.2 49.2-22.2 49.2-49.2-22.2-49.2-49.2-49.2zm-10.2-102c0-27.6-22.8-50.4-50.4-50.4-27.6 0-50.4 22.8-50.4 50.4 0 27.6 22.8 50.4 50.4 50.4 27.6 0 50.4-22.2 50.4-50.4zm10.2-199.8c-30 0-54 24-54 54s24 54 54 54 54-24 54-54-24.6-54-54-54zM409 37.8c-35.4 0-63.6 28.8-63.6 63.6S374.2 165 409 165s63.6-28.8 63.6-63.6-28.2-63.6-63.6-63.6z&quot; /&gt;
+  &lt;/symbol&gt;
+&lt;/svg&gt;
+
+
+
+  &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;script src=&quot;/assets/main.js&quot;&gt;&lt;/script&gt;
+
+&lt;script src=&quot;https://www.google.com/recaptcha/api.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Ez az elso post</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2021/02/11/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2021-02-11T22:37:16+00:00</published><updated>2021-02-11T22:37:16+00:00</updated><id>/jekyll/update/2021/02/11/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/2021/02/11/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
